@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<trk>
+  <name>Track 28-Jan-22 03:16</name>
+  <desc>Cycling (generic) recorded on Garmin Edge810</desc>
+  <trkseg>
+    <trkpt lat="62.2413755" lon="25.7540723">
+      <ele>158.4</ele>
+      <time>2022-01-28T11:16:27Z</time>
+    </trkpt>
+    <trkpt lat="62.2413918" lon="25.7540807">
+      <ele>158.4</ele>
+      <time>2022-01-28T11:16:28Z</time>
+    </trkpt>
+    <trkpt lat="62.2414734" lon="25.7541337">
+      <ele>158.6</ele>
+      <time>2022-01-28T11:16:34Z</time>
+    </trkpt>
+    <trkpt lat="62.2415613" lon="25.7541768">
+      <ele>158.2</ele>
+      <time>2022-01-28T11:16:40Z</time>
+    </trkpt>
+    <trkpt lat="62.2416543" lon="25.7541476">
+      <ele>158.4</ele>
+      <time>2022-01-28T11:16:47Z</time>
+    </trkpt>
+    <trkpt lat="62.2420284" lon="25.7544383">
+      <ele>158.0</ele>
+      <time>2022-01-28T11:17:24Z</time>
+    </trkpt>
+    <trkpt lat="62.2420365" lon="25.7542712">
+      <ele>158.0</ele>
+      <time>2022-01-28T11:17:31Z</time>
+    </trkpt>
+    <trkpt lat="62.2420806" lon="25.753805">
+      <ele>158.6</ele>
+      <time>2022-01-28T11:17:54Z</time>
+    </trkpt>
+    <trkpt lat="62.2420901" lon="25.7537678">
+      <ele>158.4</ele>
+      <time>2022-01-28T11:17:56Z</time>
+    </trkpt>
+    <trkpt lat="62.2421217" lon="25.7535976">
+      <ele>158.8</ele>
+      <time>2022-01-28T11:18:02Z</time>
+    </trkpt>
+    <trkpt lat="62.2422344" lon="25.7523338">
+      <ele>159.8</ele>
+      <time>2022-01-28T11:18:38Z</time>
+    </trkpt>
+    <trkpt lat="62.2422452" lon="25.7523235">
+      <ele>159.8</ele>
+      <time>2022-01-28T11:18:39Z</time>
+    </trkpt>
+    <trkpt lat="62.2423455" lon="25.7522951">
+      <ele>158.8</ele>
+      <time>2022-01-28T11:18:49Z</time>
+    </trkpt>
+    <trkpt lat="62.2423691" lon="25.7522431">
+      <ele>160.0</ele>
+      <time>2022-01-28T11:18:52Z</time>
+    </trkpt>
+    <trkpt lat="62.2424268" lon="25.7520262">
+      <ele>160.4</ele>
+      <time>2022-01-28T11:19:00Z</time>
+    </trkpt>
+    <trkpt lat="62.2424719" lon="25.7519354">
+      <ele>160.8</ele>
+      <time>2022-01-28T11:19:07Z</time>
+    </trkpt>
+    <trkpt lat="62.2428583" lon="25.75188">
+      <ele>162.4</ele>
+      <time>2022-01-28T11:19:32Z</time>
+    </trkpt>
+    <trkpt lat="62.2428671" lon="25.7518531">
+      <ele>162.2</ele>
+      <time>2022-01-28T11:19:33Z</time>
+    </trkpt>
+    <trkpt lat="62.2428833" lon="25.7517636">
+      <ele>162.0</ele>
+      <time>2022-01-28T11:19:36Z</time>
+    </trkpt>
+    <trkpt lat="62.2428982" lon="25.7516771">
+      <ele>162.0</ele>
+      <time>2022-01-28T11:19:39Z</time>
+    </trkpt>
+    <trkpt lat="62.2429061" lon="25.7516501">
+      <ele>162.0</ele>
+      <time>2022-01-28T11:19:40Z</time>
+    </trkpt>
+    <trkpt lat="62.2429375" lon="25.7514251">
+      <ele>162.6</ele>
+      <time>2022-01-28T11:19:48Z</time>
+    </trkpt>
+    <trkpt lat="62.2444869" lon="25.7473681">
+      <ele>170.6</ele>
+      <time>2022-01-28T11:23:39Z</time>
+    </trkpt>
+    <trkpt lat="62.2444921" lon="25.7473331">
+      <ele>170.6</ele>
+      <time>2022-01-28T11:23:40Z</time>
+    </trkpt>
+    <trkpt lat="62.2445687" lon="25.7471734">
+      <ele>170.6</ele>
+      <time>2022-01-28T11:23:48Z</time>
+    </trkpt>
+    <trkpt lat="62.2446733" lon="25.7470185">
+      <ele>170.6</ele>
+      <time>2022-01-28T11:23:56Z</time>
+    </trkpt>
+    <trkpt lat="62.2457326" lon="25.7448743">
+      <ele>174.4</ele>
+      <time>2022-01-28T11:25:31Z</time>
+    </trkpt>
+    <trkpt lat="62.2457595" lon="25.7447934">
+      <ele>174.4</ele>
+      <time>2022-01-28T11:25:34Z</time>
+    </trkpt>
+    <trkpt lat="62.2458145" lon="25.7445159">
+      <ele>175.4</ele>
+      <time>2022-01-28T11:25:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

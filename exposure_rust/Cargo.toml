@@ -1,0 +1,13 @@
+[package]
+name = "cctv_exposure"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+gpx = "0.8.5"
+csv = "1.1.6"
+serde = { version = "1", features = ["derive"] }
+chrono = "0.4.19"
+hhmmss = "0.1.0"
