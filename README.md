@@ -21,21 +21,10 @@ Rust:
 ## Citation:
 
 Please cite this work
-- `@article{turtiainen2020towards,
-  title={CCTVCV: Towards large-scale, automated, accurate detection of CCTV camera objects using computer vision. Applications and implications for privacy, safety, and cybersecurity.(Preprint)},
-  author={Turtiainen, Hannu and Costin, Andrei and Lahtinen, Tuomo and Sintonen, Lauri and Hamalainen, Timo},
-  journal={arXiv preprint arXiv:2006.03870},
-  year={2020}
-}`
-- `@INPROCEEDINGS{lahtinen2021towards, 
-title={Towards CCTV-aware Routing and Navigation for Privacy, Anonymity, and Safety - Feasibility Study in Jyväskylä},  
-author={Lahtinen, Tuomo and Sintonen, Lauri and Turtiainen, Hannu and Costin, Andrei}, 
-booktitle={2021 28th Conference of Open Innovations Association (FRUCT)},  
-year={2021}, 
-volume={}, 
-number={}, 
-pages={252-263},
-doi={10.23919/FRUCT50888.2021.9347546}
+- `@article{turtiainencctv,
+  title={CCTV-Exposure: System for measuring user’s privacy exposure to CCTV cameras},
+  author={Turtiainen, Hannu and Costin, Andrei and H{\"a}m{\"a}l{\"a}inen, Timo},
+  year={2022}
 }`
 
 ## License:
