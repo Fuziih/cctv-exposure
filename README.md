@@ -18,6 +18,10 @@ Python:
 Rust:
 - `cargo run <GPX file location> <camera file location>`
 
+## Similar work
+
+- Our computer vision model was also utilized in similar work conducted in the Netherlands. The paper 'Mapping CCTV Surveillance in Amsterdam' was authored by David Hofhuizen, Gino Koppe, Lucas Ulsamer, Seth van der Maas, Wouter van Lelyveld, and Hannu Turtiainen.
+
 ## Citation:
 
 Please cite this work
