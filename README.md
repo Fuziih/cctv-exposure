@@ -21,10 +21,15 @@ Rust:
 ## Citation:
 
 Please cite this work
-- `@article{turtiainencctv,
-  title={CCTV-Exposure: System for measuring user’s privacy exposure to CCTV cameras},
-  author={Turtiainen, Hannu and Costin, Andrei and H{\"a}m{\"a}l{\"a}inen, Timo},
-  year={2022}
+- `@misc{https://doi.org/10.48550/arxiv.2208.02159,
+  doi = {10.48550/ARXIV.2208.02159},
+  url = {https://arxiv.org/abs/2208.02159},
+  author = {Turtiainen, Hannu and Costin, Andrei and Hamalainen, Timo},
+  keywords = {Cryptography and Security (cs.CR), Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {CCTV-Exposure: An open-source system for measuring user's privacy exposure to mapped CCTV cameras based on geo-location (Extended Version)},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {arXiv.org perpetual, non-exclusive license}
 }`
 
 ## License:
